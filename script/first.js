@@ -208,7 +208,7 @@ document.getElementById('new-page').addEventListener('click',function(){
 const colorBox = document.getElementById('colorBox');
 const changeColorBtn = document.getElementById('colorBtn');
 
-// Function to generate a random hex color
+ 
 function getRandomColor() {
   const letters = '0123456789ABCDEF';
   let color = '#';
